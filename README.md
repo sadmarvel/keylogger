@@ -18,3 +18,6 @@ ve başarılı olarak çalıştırmış bulunuyorsunuz
 Bu dosyayı exe yapmak için öncelikle bunu .pyw uzantılı yapın çünkü öbür türlü komut istemcisi açılır ve yaptıklarımız gözükür bu yüzden .pyw yaparak arkaplanda çalışmasını sağlamış oluyoruz.
 sonra bunu .pyw uzantıdan .exe yapıyoruz 
 .pyw veya .exe nasıl yapıcağınızı bilmiyorsanız internete .pyw to .exe yazabilirsiniz.
+
+Sorun çıktığında veya yapamadığınız bir yer olursa ulaşabilirsiniz:
+Discord: sadmarvel_
