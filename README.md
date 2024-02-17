@@ -15,6 +15,6 @@ komut istemcisini açarak cd yazıp kopyaladığınızı yapıştırın örnek: 
 sonra python dosya_adı örnek: python keylogger.py
 ve başarılı olarak çalıştırmış bulunuyorsunuz
 
-bu dosyayı exe yapmak için öncelikle bunu .pyw uzantılı yapın çünkü öbür türlü komut istemcisi açılır ve yaptıklarımız gözükür bu yüzden .pyw yaparak arkaplanda çalışmasını sağlamış oluyoruz.
+Bu dosyayı exe yapmak için öncelikle bunu .pyw uzantılı yapın çünkü öbür türlü komut istemcisi açılır ve yaptıklarımız gözükür bu yüzden .pyw yaparak arkaplanda çalışmasını sağlamış oluyoruz.
 sonra bunu .pyw uzantıdan .exe yapıyoruz 
 .pyw veya .exe nasıl yapıcağınızı bilmiyorsanız internete .pyw to .exe yazabilirsiniz.
