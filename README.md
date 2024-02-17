@@ -1,6 +1,6 @@
 Bu projemiz'de keylogger yapımını anlattım 
 
-keylogger.py uzantılı dosyamızı ilk önce bi editör'de açıyoruz.
+1. yol keylogger.py uzantılı dosyamızı ilk önce bi editör'de açıyoruz.
 içerisindeki webhook url yi kendi url nizi ekliyorsunuz 
 nasıl yapıldığını bilmiyorsanız anlatıyım ilk önce discord'da yeni sunucu açıyorsunuz ve ayarlardan webhook a girip oluşturuyorsunuz sonra url yi kopyalayıp webhook_url yerine yapıştırıyorsunuz.
 ve bunu çalıştırdığınızda loglar discord daki sunucunuza düşücektir.
